@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanseychuong
+- 👋 Hi, I’m @ChuongNyang
 - 👀 I’m interested in Artificial Intelligence and Web Development
 - 🌱 I’m currently studying computer science at Ashesi University
 - 💞️ I’m looking to collaborate on web development
