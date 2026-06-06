@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ChuongNyang
-- 👀 I’m interested in Artificial Intelligence and Cyber Security
-- 🌱 I’m currently studying computer science at Ashesi University
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me: via nyang16@outlook.com
-- 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: People pronounce my name silently before calling it out.
+# 📊 GitHub Analytics
 
-<!---
-Tanseychuong/Tanseychuong is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Commits Per Year
+![Commits Per Year](./analytics/commits_per_year.png)
+
+## Coding Hours
+![Coding Hours](./analytics/coding_hours.png)
+
+## Weekly Activity
+![Weekly Activity](./analytics/weekday_activity.png)
+
+## Top Repositories
+![Top Repositories](./analytics/top_repositories.png)
