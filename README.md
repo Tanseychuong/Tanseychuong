@@ -1,5 +1,5 @@
 # 📊 GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanseychuong)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user="Tanseychuong")](https://git.io/streak-stats)
 ## Commits Per Year
 ![Commits Per Year](./analytics/commits_per_year.png)
 
