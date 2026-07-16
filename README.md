@@ -111,8 +111,8 @@ A social enterprise focused on providing practical digital and technical educati
 ## 🤝 Let's Connect
 
 * GitHub: https://github.com/Tanseychuong
-* LinkedIn: *Add your LinkedIn profile here*
-* Email: *Add your preferred email here*
+* LinkedIn: linkedIn.com/chuong
+* Email: mailto:nyang16@outlook.com
 
 ---
 
@@ -126,7 +126,6 @@ A social enterprise focused on providing practical digital and technical educati
 
 
 # 📊 GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com/?user='Tanseychuong')](https://git.io/streak-stats)
 ## Commits Per Year
 ![Commits Per Year](./analytics/commits_per_year.png)
 
