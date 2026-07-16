@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Software Developer | AI Enthusiast | Entrepreneur
 
-I'm a Computer Science student at **Ashesi University** in Ghana and a **Mastercard Foundation Scholar** from **South Sudan**. I enjoy building software that solves real-world problems, particularly in education, entrepreneurship, artificial intelligence, and social impact.
+I'm a Computer Science student. I enjoy building software that solves real-world problems, particularly in education, entrepreneurship, artificial intelligence, and social impact.
 
 I believe technology should create opportunities for underserved communities and improve lives through practical, scalable solutions.
 
