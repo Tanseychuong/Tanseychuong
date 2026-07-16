@@ -8,7 +8,7 @@ I believe technology should create opportunities for underserved communities and
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 BSc Computer Science @ Ashesi University (Expected Graduation: 2028)
 * 🌍 South Sudan 🇸🇸
@@ -23,65 +23,19 @@ I believe technology should create opportunities for underserved communities and
 
 ### Languages
 
-* Java
-* Python
-* SQL
-* HTML
-* CSS
+* `Java` `Python` `SQL` `HTML` `CSS` `R` `MySql`
 
 ### Frameworks & Libraries
 
-* Flask
-* React
-* Node.js
-* Spring Boot
-* Pandas
-* NumPy
-* Scikit-learn
+* `Flask` `Spring Boot` `Pandas` `NumPy` `matplotlib` `Scikit-learn` `pytorch`
 
 ### Databases
 
-* MariaDB
-* MySQL
-* Firebase
+* `MariaDB` `MySQL` `Firebase`
 
 ### Tools
 
-* Git & GitHub
-* VS Code
-* Linux
-* Docker (Learning)
-* Jupyter Notebook
-
----
-
-## 📌 Featured Projects
-
-### 🤖 BuddyLearnAI
-
-An AI-powered learning assistant that helps students:
-
-* Generate study guides
-* Create quizzes
-* Build flashcards
-* Analyze learning materials
-* Improve exam preparation
-
-**Tech Stack:** Flask, Python, AI APIs, JavaScript
-
----
-
-### 🏨 Nile Nest
-
-A platform that connects travelers with local accommodations across South Sudan while helping small hospitality businesses gain online visibility.
-
-**Tech Stack:** React, TypeScript, MariaDB
-
----
-
-### 🎓 Mal Tech
-
-A social enterprise focused on providing practical digital and technical education to underserved communities through community-based learning.
+* `Git & GitHub` `VS Code` `Linux` `Docker (Learning)` `Jupyter Notebook`
 
 ---
 
@@ -104,7 +58,7 @@ A social enterprise focused on providing practical digital and technical educati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanseychuong\&layout=compact\&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanseychuong\&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?username=Tanseychuong\&theme=github-dark)
 
 ---
 
