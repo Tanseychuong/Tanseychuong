@@ -123,6 +123,8 @@ A social enterprise focused on providing practical digital and technical educati
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tanseychuong&repo=BuddyLearnAI)](https://github.com/Tanseychuong/BuddyLearnAI)
+
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute, or connect with me.
 
 
