@@ -54,9 +54,9 @@ I believe technology should create opportunities for underserved communities and
 
 > GitHub automatically renders these images.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanseychuong\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanseychuong)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanseychuong\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanseychuong)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tanseychuong\&theme=github-dark)
 
@@ -77,20 +77,6 @@ I believe technology should create opportunities for underserved communities and
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tanseychuong&repo=BuddyLearnAI)](https://github.com/Tanseychuong/BuddyLearnAI)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tanseychuong&repo)](https://github.com/Tanseychuong/repositories)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute, or connect with me.
-
-
-# 📊 GitHub Analytics
-## Commits Per Year
-![Commits Per Year](./analytics/commits_per_year.png)
-
-## Coding Hours
-![Coding Hours](./analytics/coding_hours.png)
-
-## Weekly Activity
-![Weekly Activity](./analytics/weekday_activity.png)
-
-## Top Repositories
-![Top Repositories](./analytics/top_repositories.png)
