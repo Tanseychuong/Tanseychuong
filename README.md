@@ -121,6 +121,7 @@ A social enterprise focused on providing practical digital and technical educati
 > *"Technology is most powerful when it empowers those who have been left behind."*
 
 ---
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute, or connect with me.
 
