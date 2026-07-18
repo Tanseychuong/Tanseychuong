@@ -11,7 +11,6 @@ I believe technology should create opportunities for underserved communities and
 ## About Me
 
 * 🎓 BSc Computer Science @ Ashesi University (Expected Graduation: 2028)
-* 🌍 South Sudan 🇸🇸
 * 💻 Interested in Software Engineering, Artificial Intelligence, Cybersecurity, and Data Science
 * 📚 Currently learning Machine Learning, System Design, and Cloud Computing
 * 🌱 Passionate about using technology for education and community development
@@ -62,21 +61,11 @@ I believe technology should create opportunities for underserved communities and
 
 ---
 
-## 🤝 Let's Connect
-
-* GitHub: https://github.com/Tanseychuong
-* LinkedIn: linkedIn.com/chuong
-* Email: mailto:nyang16@outlook.com
-
----
-
 ## 💭 Favorite Quote
 
 > *"Technology is most powerful when it empowers those who have been left behind."*
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Tanseychuong&repo)](https://github.com/Tanseychuong/repositories)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute, or connect with me.
