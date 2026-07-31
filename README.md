@@ -9,7 +9,6 @@ I believe technology should create opportunities for underserved communities and
 ---
 
 ## About Me
-
 * BSc Computer Science @ Ashesi University (Expected Graduation: 2028)
 * Interested in Software Engineering, Artificial Intelligence, Cybersecurity, and Data Science
 * Currently learning Machine Learning, System Design, and Cloud Computing
@@ -18,22 +17,18 @@ I believe technology should create opportunities for underserved communities and
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
-
 * `Java` `Python` `SQL` `HTML` `CSS` `R` `MySql`
 
 ### Frameworks & Libraries
-
 * `Flask` `Spring Boot` `Pandas` `NumPy` `matplotlib` `Scikit-learn` `pytorch`
 
 ### Databases
-
 * `MariaDB` `MySQL` `Firebase`
 
 ### Tools
-
 * `Git & GitHub` `VS Code` `Linux` `Docker (Learning)` `Jupyter Notebook`
 
 ---
@@ -53,13 +48,11 @@ I believe technology should create opportunities for underserved communities and
 
 > GitHub automatically renders these images.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanseychuong)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanseychuong&layout=compact)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanseychuong)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tanseychuong\&theme=github-dark)
-
-![GitHub_Top_language](https://github-readme-stats.vercel.app/api/top-langs/?username="Tanseychuong"&layout=compact)
 
 ---
 
