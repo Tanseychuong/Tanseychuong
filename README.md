@@ -10,11 +10,11 @@ I believe technology should create opportunities for underserved communities and
 
 ## About Me
 
-* 🎓 BSc Computer Science @ Ashesi University (Expected Graduation: 2028)
-* 💻 Interested in Software Engineering, Artificial Intelligence, Cybersecurity, and Data Science
-* 📚 Currently learning Machine Learning, System Design, and Cloud Computing
-* 🌱 Passionate about using technology for education and community development
-* ⚡ Always building, learning, and experimenting with new ideas
+* BSc Computer Science @ Ashesi University (Expected Graduation: 2028)
+* Interested in Software Engineering, Artificial Intelligence, Cybersecurity, and Data Science
+* Currently learning Machine Learning, System Design, and Cloud Computing
+* Passionate about using technology for education and community development
+* Always building, learning, and experimenting with new ideas
 
 ---
 
