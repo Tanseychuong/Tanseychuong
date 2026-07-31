@@ -58,6 +58,7 @@ I believe technology should create opportunities for underserved communities and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanseychuong)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tanseychuong\&theme=github-dark)
+![GitHub_Top_language](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanseychuong&layout=compact)
 
 ---
 
