@@ -8,15 +8,6 @@ I believe technology should create opportunities for underserved communities and
 
 ---
 
-## About Me
-* BSc Computer Science @ Ashesi University (Expected Graduation: 2028)
-* Interested in Software Engineering, Artificial Intelligence, Cybersecurity, and Data Science
-* Currently learning Machine Learning, System Design, and Cloud Computing
-* Passionate about using technology for education and community development
-* Always building, learning, and experimenting with new ideas
-
----
-
 ## Technologies & Tools
 
 ### Languages
@@ -24,24 +15,11 @@ I believe technology should create opportunities for underserved communities and
 
 ### Frameworks & Libraries
 * `Flask` `Spring Boot` `Pandas` `NumPy` `matplotlib` `Scikit-learn` `pytorch`
-
 ### Databases
 * `MariaDB` `MySQL` `Firebase`
 
 ### Tools
 * `Git & GitHub` `VS Code` `Linux` `Docker (Learning)` `Jupyter Notebook`
-
----
-
-## 📈 Current Goals
-
-* Build impactful AI applications
-* Contribute to open-source projects
-* Deepen my knowledge of machine learning
-* Learn cloud technologies (AWS & Azure)
-* Strengthen backend engineering skills
-* Build products that create opportunities across Africa
-
 ---
 
 ## 📊 GitHub Stats
