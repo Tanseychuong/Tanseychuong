@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chuong Tiutiu Nyang
+# Hi there 👋, I'm Chuong
 
 ### Computer Science Student | Software Developer | AI Enthusiast | Entrepreneur
 
